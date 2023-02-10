@@ -1,0 +1,164 @@
+#navlogo{
+  height: 40px;
+}
+h1{
+  font-family: 'Montserrat';
+  font-size: 3rem;
+  line-height: 5rem;
+  font-weight: bolder;
+  color: #FD841F;
+}
+.midtext{
+  font-family: 'Montserrat';
+  font-size: 3rem;
+  line-height: 2rem;
+  color: #fff;
+text-align: center;
+padding: 3% 0;
+font-weight: bold;
+}
+.titlediv{
+  padding: 3% 2%;
+  background-color: #F6F6F6;
+}
+.labpic1{
+  height: 100%;
+  position: relative;
+  bottom: 10%;
+
+
+}
+#mid{
+  background-color: #FD841F;
+  padding: 5%;
+  text-align: center;
+}
+.button_hire{
+  margin: 0 3% 5% 0
+}
+p{
+  font-family: 'Montserrat';
+  font-size: 1.5rem;
+}
+
+.hiretext{
+  text-align: center;
+  margin-top: 5%;
+  color: black;
+}
+.card-text{
+  line-height: 0;
+  font-size: 15px;
+  margin-top: 1rem;
+  padding: 1% 0;
+}
+.card-title{
+  font-family: 'Montserrat';
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+.btn-custom {
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
+  font-family: 'Montserrat';
+  font-weight: bold;
+  color: #F5F5F5;
+  font-size: 20px;
+  background: #ff7b00;
+  padding: 5px 20px 5px 20px;
+  border: solid #ff7700 2px;
+  text-decoration: none;
+}
+
+.btn-custom:hover {
+  background: #fc633c;
+  text-decoration: none;
+}
+.button_profile{
+  font-family: 'Montserrat';
+
+}
+.upload{
+  width: 100px;
+  position: relative;
+  margin-top: 5%;
+  margin-left: 45%;
+  transform: scale(2);
+}
+.upload img{
+  border-radius: 50%;
+  border:6px solid #eaeaea;
+}
+.upload .round{
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  background: #fc633c;
+  width: 32px;
+  height: 32px;
+  line-height: 33px;
+  text-align: center;
+  border-radius: 50%;
+  overflow: hidden;
+}
+.upload .round input[type='file']{
+  position: absolute;
+  transform: scale(2);
+  opacity: 0;
+}
+input[type=file]::webkit-file-upload-botton{
+  cursor: pointer;
+}
+#profile{
+  padding: 10% 10%;
+}
+.profile_text{
+  color: black;
+  text-align: center;
+  padding: 5% 0 2% 0;
+}
+#profileform{
+  padding: 10% 10% 0 10% ;
+}
+.Myprofilepic{
+  height: 15rem;
+  padding: 10% 10%;
+
+}
+.myprotit{
+  text-align: center;
+  padding: 5% 0 2% 0;
+}
+h2{
+  color: black;
+  font-family: 'Montserrat';
+  font-weight: bold;
+}
+#profiledata{
+  padding: 2% 0 0% 5%;
+}
+h3{
+  font-family:'Montserrat';
+  font-weight: normal;
+}
+td{
+  padding: 0 0 0 20px;
+}
+tr{
+  padding: 5% 0 0 0;
+}
+.descript{
+  text-align: center;
+  padding: 2% 0 0 0;
+}
+.despara{
+  padding: 1% 0 0 0;
+}
+#contact{
+  text-align: center;
+  padding: 2% 0 0 0;
+}
+#con-btn{
+  padding: 3% 0 0 0;
+}
